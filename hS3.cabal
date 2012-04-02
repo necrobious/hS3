@@ -46,7 +46,6 @@ Library
     dataenc,
     utf8-string,
     bytestring
---    MissingH >= 0.18.6
 
   Exposed-modules:
     Network.AWS.S3Object,
